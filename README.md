@@ -1,6 +1,6 @@
 # Instagram Profile Cloner
 
-Clone instagram full profile post & videos
+Clone instagram full profile posts & videos
 
 ## Install
 
